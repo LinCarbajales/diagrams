@@ -1,3 +1,6 @@
+# Presentación
+La función de este repositorio es presentar la resolución de un ejercicio de diagramas de bases de datos propuesto en clase. Sobre una serie de datos se realiza primero la normalización de las tablas en una hoja de cálculo, y a continuación se presenta tanto el diagrama de Chen como el de patas de gallo.
+
 # Diagramas
 
 ### Normalización en hoja de cálculo
